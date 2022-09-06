@@ -1,4 +1,4 @@
-# project_merge
+REMOTE# project_merge
 
 New project
 Merge and conflicts
