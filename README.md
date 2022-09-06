@@ -1,1 +1,4 @@
-# projetc_merge
+# project_merge
+
+New project
+Merge and conflicts
